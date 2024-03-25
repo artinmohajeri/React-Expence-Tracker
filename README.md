@@ -1,3 +1,6 @@
+
+![Screenshot (199)](https://github.com/artinmohajeri/React-Expence-Tracker/assets/95845593/406a7aa3-fd4c-487f-b651-8262d3e0ed4b)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
