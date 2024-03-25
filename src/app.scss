@@ -1,0 +1,44 @@
+body{
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    background: #f6f6f6;
+}
+h2{
+    text-align: center;
+    color: #474747;
+}
+#income-expense{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    box-shadow: 0px 0px 10px 2px #d7d7d7;
+}
+.price{
+    font-size: 20px;
+    font-weight: 600;
+}
+#transaction{
+    box-shadow: 0px 0px 10px 2px #d7d7d7;
+    font-size: 18px;
+    font-weight: 500;
+}
+#text-input, #amount-input{
+    outline: none;
+    border: none;
+    box-shadow: 0px 0px 10px 2px #d7d7d7;
+}
+button{
+    border: none;
+    box-shadow: 0px 0px 10px 2px #d7d7d7;
+    background-color: #b7b7b7;
+    height: 30px;
+    transition: 0.2s;
+}
+button:hover{
+    background-color: #9f9f9f;
+}
+button:active{
+    box-shadow: none;
+    background-color: #737373;
+}
